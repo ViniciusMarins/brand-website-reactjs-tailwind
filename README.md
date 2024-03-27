@@ -2,7 +2,7 @@
 
 Projeto frontend com o intuito de aprimorar as habilidades de desenvolvimento de UI utilizando **Tailwind** + **Reactjs**
 
-[>> Link para a aplicação <<](brand-website-reactjs-tailwind.netlify.app)
+[>> Link para a aplicação <<](https://brand-website-reactjs-tailwind.netlify.app)
 
 ## Stack
 
