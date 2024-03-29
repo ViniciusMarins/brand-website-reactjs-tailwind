@@ -13,8 +13,8 @@ Projeto frontend com o intuito de aprimorar as habilidades de desenvolvimento de
 Instalar dependências e rodar aplicação
 
 ```bash
-npm install
-npm run dev
+yarn
+yarn run dev
 ```
 
 ## Bibliotecas Utilizadas
