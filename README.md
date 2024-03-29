@@ -14,7 +14,7 @@ Instalar dependências e rodar aplicação
 
 ```bash
 yarn
-yarn run dev
+yarn dev
 ```
 
 ## Bibliotecas Utilizadas
